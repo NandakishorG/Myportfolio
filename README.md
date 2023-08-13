@@ -1,2 +1,2 @@
-# Myportfolio.github.io
-MyPortfolio
+# Portfolio
+About me
